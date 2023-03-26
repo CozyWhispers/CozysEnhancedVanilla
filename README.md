@@ -8,7 +8,7 @@
 <h6 align="center">
   <a href="https://twitter.com/https_whispers">Twitter</a>
   ·
-  <a href="https://discord.gg/fDqbN4krCB">Discord</a>
+  <a href="https://discord.gg/Gn7MHqwBBF">Discord</a>
 </h6>
 
 <p align="center">
@@ -22,7 +22,7 @@
 		<img alt="Releases" src="https://img.shields.io/github/release/CozyWhispers/CozysEnhancedVanilla.svg?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/></a>
 	<a href="https://github.com/CozyWhispers/CozysEnhancedVanilla/issues">
 		<img alt="Issues" src="https://img.shields.io/github/issues/CozyWhispers/CozysEnhancedVanilla?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
-	<a href="https://discord.gg/fDqbN4krCB">
+	<a href="https://discord.gg/Gn7MHqwBBF">
 		<img alt="Discord" src="https://img.shields.io/discord/1089297487195549787?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41"></a>
 </p>
 
