@@ -86,7 +86,8 @@ Contributions, questions, and requests for new features are welcome. Feel free t
   <a href="https://www.curseforge.com/members/mr_ch0c0late1/projects">mr_ch0c0late1</a>
   ·
   <a href="https://www.planetminecraft.com/member/creepermax123/">creepermax123</a>
-  ·
+</h6>
+<h6 align="center">
   <a href="https://www.planetminecraft.com/member/frosted_lemon/">Frosted Lemon</a>
   ·
   <a href="https://www.curseforge.com/members/findrek_/projects">Findrek_</a>
